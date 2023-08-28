@@ -1,1 +1,2 @@
-# Mecanica_Cuantica_1_TomasOtero_AdrianaVelasquez
+# Mecánica Cuántica 1 
+## Tomas Otero y Adriana Velásquez
